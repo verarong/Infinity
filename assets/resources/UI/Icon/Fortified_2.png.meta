@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "de49ccb9-b809-4530-a650-364e846d6dd6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 100,
+  "height": 100,
+  "platformSettings": {},
+  "subMetas": {
+    "Fortified_2": {
+      "ver": "1.0.4",
+      "uuid": "c9c6d8be-da56-498b-867e-70511390e365",
+      "rawTextureUuid": "de49ccb9-b809-4530-a650-364e846d6dd6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": 0.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 92,
+      "height": 95,
+      "rawWidth": 100,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

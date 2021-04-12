@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "df0b5976-2d56-4c26-af2c-520ece7476bc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 700,
+  "height": 700,
+  "platformSettings": {},
+  "subMetas": {
+    "sm_gs_superskill1_45_conjure_0003": {
+      "ver": "1.0.4",
+      "uuid": "decaff06-75e6-4713-b594-25b642aab063",
+      "rawTextureUuid": "df0b5976-2d56-4c26-af2c-520ece7476bc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -70.5,
+      "offsetY": -28.5,
+      "trimX": 278,
+      "trimY": 378,
+      "width": 3,
+      "height": 1,
+      "rawWidth": 700,
+      "rawHeight": 700,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

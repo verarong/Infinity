@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "9aab91e3-b27a-49cd-b89a-0d5416c0321b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 248,
+  "height": 102,
+  "platformSettings": {},
+  "subMetas": {
+    "btn_common_tanhe02": {
+      "ver": "1.0.4",
+      "uuid": "fd769b0f-18e0-4668-bbbb-71ae879dd56e",
+      "rawTextureUuid": "9aab91e3-b27a-49cd-b89a-0d5416c0321b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 248,
+      "height": 102,
+      "rawWidth": 248,
+      "rawHeight": 102,
+      "borderTop": 17,
+      "borderBottom": 21,
+      "borderLeft": 19,
+      "borderRight": 20,
+      "subMetas": {}
+    }
+  }
+}
